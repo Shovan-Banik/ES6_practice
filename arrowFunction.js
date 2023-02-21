@@ -17,10 +17,10 @@
 
 
 // 3.4
-// const mul=(first,second)=>{
-//     const sum1=(first+2);
-//     const sum2=(second+2);
-//     return sum1*sum2;
-// }
-// console.log(mul(5,5));
+const mul=(first,second)=>{
+    const sum1=(first+2);
+    const sum2=(second+2);
+    return sum1*sum2;
+}
+console.log(mul(5,5));
 
